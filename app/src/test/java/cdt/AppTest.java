@@ -20,7 +20,7 @@ class AppTest {
 		assertTrue(app.round(12.45, 1) == 12.5, "round() not working.");
     }
 	@Test
-	void testMonthlyPayment(){
+	void testMonthlyPayment(){ //testing if the formula gives a correct output for a given set of input values
 		double U = 1000;
 		double b = 0.01;
 		int p = 12;
