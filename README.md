@@ -18,8 +18,8 @@ Windows 10:
 7. Run the application with the gradle wrapper:
   Command: ./gradlew run
   
-The source code of the application is found under cdt-main\app\src\main\java\cdt\
-The source code of the JUnit test is found under cdt-main\app\src\test\java\cdt\
+The source code of the application is found under cdt-main\app\src\main\java\cdt\App.java
+The source code of the JUnit test is found under cdt-main\app\src\test\java\cdt\AppTest.java
 
 Linux:
 
